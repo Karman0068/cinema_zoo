@@ -1,0 +1,67 @@
+
+Jon Watts
+Director
+
+Kevin Feige
+Producer
+
+Amy Pascal
+Producer
+
+Chris McKenna
+Writer
+
+Erik Sommers
+Writer
+
+Michael Giacchino
+Musician
+
+Victoria Alonso
+Executive Producer
+
+Avi Arad
+Executive Producer
+
+Mauro Fiore
+Cinematographer
+
+
+#trailer_box {
+    
+    background-size: 100% 100%;
+    border-radius: 7%;
+    margin-top:10px;
+    margin-left: 10%;
+    height: 65%;
+    width: 20%;
+    
+    background-image: url(momo.png) ;
+    
+}
+
+
+
+#trailer{
+    border-radius: 7%;
+    margin-top:0px;
+    margin-left: 10%;
+    height: 75%;
+    width: 20%;
+    
+}
+
+
+
+                        <a href="https://www.youtube.com/embed/u57jgHtwb8g"></a>
+
+                        <div id="trailer"></div>
+
+
+
+
+table ,tr ,td{
+    border: 1px solid white;
+}
+
+
